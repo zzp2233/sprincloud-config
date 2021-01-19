@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e40609-005b-48ce-ba13-c73db246d706" name="Default Changelist" comment="test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\oftenapp\Maven\my_java\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../oftenapp/Maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\oftenapp\Maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="1mqNDoLHY80MpcYwQZBflZriGt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\cloud2022\cloud-gateway-gateway9527\src" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-consumer-hystrix-dashboard9001\src" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-consumer-feign-hystrix-order80\src" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-providerconsul-payment8006\src" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-provider-payment8004\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.atguigu.springcloud.controller" />
+      <recent name="com.atguigu.springcloud.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\cloud2022\cloud-provider-payment8002\src\main\resources" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-api-commons\src\main\java\com\atguigu\springcloud" />
+      <recent name="D:\IdeaProjects\cloud2022\cloud-consumer-order80\src\main\java\com\atguigu\springcloud" />
+      <recent name="D:\IdeaProjects\cloud2022\clound-provider-payment8001\src\java\com\atguigu\springcloud" />
+      <recent name="D:\IdeaProjects\cloud2022\clound-provider-payment8001\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.T2">
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2" />
+      <module name="cloud-gateway-gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="clound-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.OrderZKMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.PaymentMain8001 (1)" />
+      <item itemvalue="Spring Boot.OrderConsulMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8006" />
+      <item itemvalue="Spring Boot.GateWayMain9527" />
+      <item itemvalue="Application.T2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Spring Boot.GateWayMain9527" />
+        <item itemvalue="Spring Boot.PaymentMain8001 (1)" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e40609-005b-48ce-ba13-c73db246d706" name="Default Changelist" comment="" />
+      <created>1610217043247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610217043247</updated>
+      <workItem from="1610217044642" duration="16754000" />
+      <workItem from="1610332596760" duration="8162000" />
+      <workItem from="1610342426110" duration="16284000" />
+      <workItem from="1610507222515" duration="32705000" />
+      <workItem from="1610767928315" duration="31657000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1611041771179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611041771179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="114" key="#Project_Structure" timestamp="1610607667002">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="139" y="114" key="#Project_Structure/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610607667002" />
+    <state x="393" y="294" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1610379950450">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="393" y="294" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610379950450" />
+    <state x="468" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1610864785366">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="468" y="248" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610864785366" />
+    <state x="256" y="466" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610220882296">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="256" y="466" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610220882296" />
+    <state x="443" y="294" key="FileChooserDialogImpl" timestamp="1610426344955">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="443" y="294" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610426344955" />
+    <state width="1267" height="536" key="GridCell.Tab.0.bottom" timestamp="1610861509109">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1267" height="536" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610861509109" />
+    <state width="1267" height="536" key="GridCell.Tab.0.center" timestamp="1610861509109">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1267" height="536" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610861509109" />
+    <state width="1267" height="536" key="GridCell.Tab.0.left" timestamp="1610861509109">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1267" height="536" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610861509109" />
+    <state width="1267" height="536" key="GridCell.Tab.0.right" timestamp="1610861509109">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1267" height="536" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610861509109" />
+    <state width="911" height="280" key="GridCell.Tab.1.bottom" timestamp="1610858734178">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610858734178" />
+    <state width="911" height="280" key="GridCell.Tab.1.center" timestamp="1610858734178">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610858734178" />
+    <state width="911" height="280" key="GridCell.Tab.1.left" timestamp="1610858734178">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610858734178" />
+    <state width="911" height="280" key="GridCell.Tab.1.right" timestamp="1610858734178">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610858734178" />
+    <state width="910" height="280" key="GridCell.Tab.2.bottom" timestamp="1610615446462">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="910" height="280" key="GridCell.Tab.2.bottom/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610615446462" />
+    <state width="910" height="280" key="GridCell.Tab.2.center" timestamp="1610615446462">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="910" height="280" key="GridCell.Tab.2.center/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610615446462" />
+    <state width="910" height="280" key="GridCell.Tab.2.left" timestamp="1610615446462">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="910" height="280" key="GridCell.Tab.2.left/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610615446462" />
+    <state width="910" height="280" key="GridCell.Tab.2.right" timestamp="1610615446462">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="910" height="280" key="GridCell.Tab.2.right/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610615446462" />
+    <state x="243" y="282" key="IDE.errors.dialog" timestamp="1610509050646">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="243" y="282" key="IDE.errors.dialog/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610509050646" />
+    <state x="195" y="202" key="Maven.ArtifactSearchDialog" timestamp="1610264665620">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="195" y="202" key="Maven.ArtifactSearchDialog/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610264665620" />
+    <state x="1296" y="150" key="SettingsEditor" timestamp="1610594753988">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1296" y="150" key="SettingsEditor/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610594753988" />
+    <state x="1074" y="282" key="Vcs.Push.Dialog.v2" timestamp="1611041891055">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1074" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1611041891055" />
+    <state x="54" y="99" key="new project wizard" timestamp="1611036909983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="72" y="99" key="new project wizard/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610815945490" />
+    <state x="54" y="99" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1611036909983" />
+    <state x="328" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1610860597929">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="328" y="240" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.2560.1080@0.0.2560.1080" timestamp="1610860597929" />
+  </component>
+</project>
